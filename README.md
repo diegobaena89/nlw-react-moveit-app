@@ -2,7 +2,7 @@
 
 ![moveit](https://github.com/diegobaena89/nlw-react-moveit-app/blob/main/public/logo-full.svg)
 
-![badge](https://badgen.net/badge/languages/2/:color?)
+![badge](https://badgen.net/badge/languages/3/:color?)
  ![badge](https://badgen.net/badge/made_by/diegobaena89/:color?) 
  ![badge](https://badgen.net/github/license/micromatch/micromatch) 
 
